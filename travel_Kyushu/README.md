@@ -39,5 +39,5 @@ Then open `kyushu_trip_map.html` in your browser.
 ---
 
 ## 📚 Author
-Created by [Your Name]  
+Created by **Ryohei Nagano**
 For the final ChatGPT design project (AI-based system design).
